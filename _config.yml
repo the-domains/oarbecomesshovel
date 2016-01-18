@@ -1,7 +1,7 @@
 name: OarBecomesShovel
 favicon: null
-layout_spectrum: 0.10961312847211957
-typography_spectrum: 0.9684770910535008
+layout_spectrum: 0.73984
+typography_spectrum: 0.40657
 title: Oar Becomes Shovel
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9804754862561822
+  brandStrength: 0.25
   lightness: 0.3754984852857888
   saturation: 0.5707487617619336
   rhythmicContrast: 0.23207918647676706
